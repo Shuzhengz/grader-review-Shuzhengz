@@ -56,3 +56,4 @@ echo "Grade: 100"
 
 rm -rf student-submission
 rm -rf grading-area
+
